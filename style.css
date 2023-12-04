@@ -1,0 +1,57 @@
+body {
+
+}
+
+h1 {
+color: black;
+}
+
+.titulo-principal {
+padding-left: 25px;
+}
+
+img {
+width: 100%;
+}
+
+.apresentacao{
+background: #88ebca;
+padding: 30px;
+}
+
+h2 {
+text-align: center;
+}
+
+p {
+text-align: center;
+font-size: 20px;
+}
+
+em strong {
+color: red;
+}
+
+.beneficios {
+background: #FFFFFF;
+padding: 20px;
+}
+
+h3 {
+text-align: center;
+}
+
+ul {
+display: inline-block;
+vertical-align: top;
+width: 20%;
+margin-right: 15%;
+}
+
+.itens {
+font-style: italic;
+}
+
+.imagembeneficios {
+width: 50%;
+}
