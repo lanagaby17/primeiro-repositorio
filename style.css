@@ -3,55 +3,55 @@ body {
 }
 
 h1 {
-color: black;
+    color: #000000;
 }
 
 .titulo-principal {
-padding-left: 25px;
+    padding-left: 25px;
 }
 
-img {
-width: 100%;
+.banner {
+    width: 100%;
 }
 
-.apresentacao{
-background: #88ebca;
-padding: 30px;
+.apresentacao {
+    background: #CCCCCC;
+    padding: 30px;
 }
 
 h2 {
-text-align: center;
+    text-align: center;
 }
 
 p {
-text-align: center;
-font-size: 20px;
+    text-align: center;
+    font-size: 20px;
 }
 
 em strong {
-color: red;
+    color: red;
 }
 
 .beneficios {
-background: #FFFFFF;
-padding: 20px;
+    background: #FFFFFF;
+    padding: 20px;
 }
 
 h3 {
-text-align: center;
+    text-align: center;
 }
 
 ul {
-display: inline-block;
-vertical-align: top;
-width: 20%;
-margin-right: 15%;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
 
 .itens {
-font-style: italic;
+    font-style: italic;
 }
 
 .imagembeneficios {
-width: 50%;
+    width: 50%;
 }
